@@ -1,3 +1,2 @@
 # my_brilliant_friend
-reading notes
-一个 因为读书而生的 笔记
+一个 因读书而生的 笔记
